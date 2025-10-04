@@ -20,10 +20,10 @@ The goal of this project is to build predictive models for house prices and eval
 - **Advanced Evaluation:** Binned error matrix to visualize under/overestimations in price ranges.
 
 ## Repository Structure
+
 house-price-prediction/
-│
-├── data/ # Original datasets (train.csv, test.csv)
-├── notebooks/ # Jupyter notebooks with analysis and models
+├── data/            # Original datasets (train.csv, test.csv)
+├── notebooks/       # Jupyter notebooks with analysis and models
 ├── requirements.txt # Python libraries required
-├── .gitignore # Ignored files/folders (venv, pycache, etc.)
-└── README.md # Project description
+├── .gitignore       # Ignored files/folders (venv, __pycache__, etc.)
+└── README.md        # Project description
