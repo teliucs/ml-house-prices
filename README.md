@@ -21,9 +21,11 @@ The goal of this project is to build predictive models for house prices and eval
 
 ## Repository Structure
 
+```text
 house-price-prediction/
 ├── data/            # Original datasets (train.csv, test.csv)
 ├── notebooks/       # Jupyter notebooks with analysis and models
+├── src/             # Optional Python scripts (preprocessing, training)
 ├── requirements.txt # Python libraries required
 ├── .gitignore       # Ignored files/folders (venv, __pycache__, etc.)
 └── README.md        # Project description
